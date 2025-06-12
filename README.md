@@ -96,7 +96,8 @@ This work builds upon the [Style-Aligned](https://github.com/google/style-aligne
 
 ## Code Development Status
 
-- [x] Inference code for Only-Style  
+- [x] Inference code for Only-Style
+- [ ] Support for multi-image and multi-subject cases
 - [ ] Support for real stylistic references  
 - [ ] Support for Generalized Leakage Localization (input reference-target pair)  
 - [ ] Evaluation code
