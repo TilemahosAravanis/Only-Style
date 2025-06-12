@@ -88,12 +88,6 @@ The inference script produces the following outputs in the directory specified b
 
 ---
 
-## Acknowledgements
-
-This work builds upon the [Style-Aligned](https://github.com/google/style-aligned) repository by Google Research. We thank the authors for making their code and models publicly available.
-
----
-
 ## Code Development Status
 
 - [x] Inference code for Only-Style
@@ -101,3 +95,9 @@ This work builds upon the [Style-Aligned](https://github.com/google/style-aligne
 - [ ] Support for real stylistic references  
 - [ ] Support for Generalized Leakage Localization (input reference-target pair)  
 - [ ] Evaluation code
+
+---
+
+## Acknowledgements
+
+This work builds upon the [Style-Aligned](https://github.com/google/style-aligned) repository by Google Research. We thank the authors for making their code publicly available.
