@@ -115,6 +115,8 @@ If you find this work useful, please cite:
       url={https://arxiv.org/abs/2506.09916}, 
 }
 
+---
+
 ## Acknowledgements
 
 This work builds upon the [Style-Aligned](https://github.com/google/style-aligned) repository by Google Research. We thank the authors for making their code publicly available.
