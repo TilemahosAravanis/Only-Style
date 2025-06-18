@@ -115,6 +115,8 @@ If you find this work useful, please cite:
       url={https://arxiv.org/abs/2506.09916}, 
 }
 
+```
+
 ---
 
 ## Acknowledgements
