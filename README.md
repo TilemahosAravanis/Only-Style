@@ -4,6 +4,8 @@
 
 Official implementation of "Only-Style: Stylistic Consistency in Image Generation without Content Leakage". 
 
+[![arXiv](https://img.shields.io/badge/arXiv-2506.09916-b31b1b.svg)](https://arxiv.org/abs/2506.09916)
+
 </div>
 
 ## Installation
@@ -97,6 +99,21 @@ The inference script produces the following outputs in the directory specified b
 - [ ] Evaluation code
 
 ---
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@misc{aravanis2025onlystylestylisticconsistencyimage,
+      title={Only-Style: Stylistic Consistency in Image Generation without Content Leakage}, 
+      author={Tilemachos Aravanis and Panagiotis Filntisis and Petros Maragos and George Retsinas},
+      year={2025},
+      eprint={2506.09916},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.09916}, 
+}
 
 ## Acknowledgements
 
